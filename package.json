@@ -1,0 +1,22 @@
+{
+  "name": "react-native-x-flatlist",
+  "version": "0.0.1",
+  "description": "react native flatlist 增强组件",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youngjuning/react-native-x-flatlist.git"
+  },
+  "author": "youngjuning",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/youngjuning/react-native-x-flatlist/issues"
+  },
+  "homepage": "https://github.com/youngjuning/react-native-x-flatlist#readme"
+}
